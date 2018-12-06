@@ -1,5 +1,6 @@
 # UserGroup
 Information from our UserGroup meetings
+Unless otherwise specificed all meetings are held at the Edney Building on the 5th floor from 5:30 - 7:00 PM EST
 
 Below is a list of our meetings and topics
 
